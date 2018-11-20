@@ -25,6 +25,7 @@ public class DruidDataSourceConfig {
         System.out.println(properties.getPassword());
         System.out.println(properties.getUrl());
         System.out.println(properties.getUsername());
+        System.out.println("测试");
     }
 
 }
